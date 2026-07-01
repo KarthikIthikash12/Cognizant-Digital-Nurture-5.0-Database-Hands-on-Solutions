@@ -1,7 +1,3 @@
--- ===========================
--- Task 3: Alter and Extend the Schema
--- ===========================
-
 -- 10. Add phone_number column to students table
 ALTER TABLE students
 ADD phone_number VARCHAR(15);
